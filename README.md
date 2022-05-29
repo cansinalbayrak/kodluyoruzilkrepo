@@ -6,7 +6,7 @@ Kodluyoruz Front-End egitimi kapsaminda actigim ilk repo
 # **Installation**
 ----------------------------------------------------------------------
 Oncelikle projeyi clonelayin. (Buraya sizin reponuzdan aldiginiz link gelecek)
-`git clone [](https://github.com/cansinalbayrak/kodluyoruzilkrepo.git)
+`git clone [](https://github.com/cansinalbayrak/kodluyoruzilkrepo.git)`
 
 # **Usage**
 ----------------------------------------------------------------------
@@ -21,4 +21,4 @@ code .
 Pull requestler kabul edilir. Buyuk degisiklikler icin, lutfen once neyi degistirmek istediginizi tartismak icin bir konu aciniz. 
 # **License**
 ----------------------------------------------------------------------
-[](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/)
